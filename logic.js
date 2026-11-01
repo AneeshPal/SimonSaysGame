@@ -2,7 +2,7 @@ let gameSeq=[];//empty array har level pe ek random color add hota hai
 let userSeq=[];
 let btncol=["red","green","yellow","purple"];
 let started=false;
-let level=0;//starting me =
+let level=0;//starting me 
 let h2=document.querySelector('h2');
 let highscore=0;
 let h3=document.querySelector('h3');
