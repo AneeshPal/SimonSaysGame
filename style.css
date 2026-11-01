@@ -12,7 +12,6 @@ body{
 
 /* parent container */
 .btn-container{
-    /* same line */
     display:flex;
     justify-content: center;
     align-items: center;
